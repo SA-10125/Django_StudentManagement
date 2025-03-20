@@ -1,6 +1,6 @@
 # Student Management System
 
-##Contributed to this open source project at ACM's Hacknight 6.0 at PESUECC
+## Contributed to this open source project at ACM's Hacknight 6.0 at PESUECC
 ### Overview
 This is a  Django-based Student Management System  designed to manage students, professors, courses, and grades in an academic setting. It leverages Django's ORM to interact with a PostgreSQL database, providing models to store information about students, courses, professors, and scores. The system also includes authentication, permissions, and session management through Django's built-in models.
 
